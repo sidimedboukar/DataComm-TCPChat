@@ -1,5 +1,3 @@
-##DataComm-TCPChat
-
 Bu proje, Windows sistemleri için Winsock kütüphanesi kullanılarak C'de uygulanan basit bir istemci-sunucu sohbet uygulaması gibi görünmektedir. Sunucu, birden fazla istemcinin bağlanmasına, genel ve özel mesaj alışverişinde bulunmasına, çevrimiçi kullanıcıları listelemesine ve özel komutları işlemesine olanak tanır. Ek olarak, proje hata işleme, eşzamanlı istemci bağlantıları için çoklu iş parçacığı ve sağlama toplamları ve CRC aracılığıyla mesaj bütünlüğü doğrulaması içerir.
 
 İşte temel bileşenlerin kısa bir açıklaması:
